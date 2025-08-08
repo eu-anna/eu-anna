@@ -33,6 +33,7 @@ Microfundamento: Algoritmos e Lógica de Programação
 ## 📱 Onde me encontrar
 
 [📷 @anndstr](https://www.instagram.com/annacl472/) 
+
 [✉️ anna.clara@email.com](mailto:dossantosanna64@gmail.com)
 
 ----
