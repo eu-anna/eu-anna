@@ -58,7 +58,7 @@ Projeto acadêmico desenvolvido em equipe na PUC Minas.
 
 **Tecnologias:** C#, .NET, JavaScript, HTML, CSS, SQL e Git/GitHub.
 
-🔗 [Ver projeto no GitHub](https://github.com/eu-anna/agroconecta-pucminas)
+🔗 [Ver projeto no GitHub](https://github.com/eu-anna/agroconecta-pucminass)
 
 **Minha contribuição:** desenvolvimento de interfaces e funcionalidades, incluindo a tela de Clima com integração de API para dados meteorológicos em tempo real, Atividades Agrícolas, Análise da Cultura e cadastro de produtos no Marketplace, além de participação na documentação e nos testes do projeto.
 
