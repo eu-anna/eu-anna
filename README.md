@@ -1,41 +1,84 @@
-## 👋 Oiê, eu sou a Anna Clara!
+# Olá! Eu sou a Anna Clara 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas (iniciando essa jornada com muito café e paixão por tecnologia!)
-🐾 Estou me formando em Medicina Veterinária e amo os animais quase tanto quanto adoro programar — sou uma veterinária com alma de codificadora, dividida entre patas e teclas!
-💜 Apaixonada por transformar códigos em coisas incríveis — de sites fofinhos até projetos que fazem a gente pensar “caramba, eu fiz isso!”. Quando estou programando, ouvir música é meu superpoder para focar e dar vida aos códigos. 🎧
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**
+💻 Interessada em **Desenvolvimento de Software, Segurança da Informação, Inteligência Artificial e Dados**
 
-----
+## 🚀 Sobre mim
 
-## 🧠 Sobre mim: 
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente desenvolvendo conhecimentos em programação, desenvolvimento web, banco de dados e engenharia de software.
 
-Estou explorando tudo:
-📊 Trabalhar com banco de dados? Sim!
-🛠️ Desenvolver qualquer coisa que envolva criatividade e código? Também!
-🎮 E o meu grande sonho: criar um jogo indie com aquela estética charmosa, trilha sonora envolvente e história de aquecer o coração (ou causar caos... ainda tô decidindo 😅).
+Tenho interesse especial em **segurança da informação, desenvolvimento de aplicações, inteligência artificial e tecnologia aplicada à resolução de problemas reais**.
 
-----
+Atualmente estou fortalecendo minha base em programação e desenvolvendo projetos acadêmicos e pessoais para construir meu portfólio.
 
-## 💻 Linguagens de programação que eu adoro: 
+## 🛠️ Tecnologias
 
-💻 Programo em Java, C#, JavaScript e C++
-⚔️ Confesso que Python ainda é meu pequeno vilão... Às vezes ele me olha com aquele “IndentationError” e eu penso: “por que não escolhi jardinagem?” Mas sigo firme, entre print()s, erros e vitórias, porque programar é minha nova paixão.
+### Programação
 
-----
+* C#
+* JavaScript
+* Python — em aprendizado
 
-## 🚀 Atualmente aprendendo:
+### Desenvolvimento
 
-Microfundamento: Desenvolvimento Web Front-End
-Microfundamento: Algoritmos e Abstração de Dados
-Microfundamento: Algoritmos e Lógica de Programação
+* HTML
+* CSS
+* .NET
+* Bootstrap
+* APIs REST — em aprendizado
 
-----
+### Banco de dados
 
-## 📱 Onde me encontrar
+* SQL
+* MySQL
+* SQL Server
 
-[📷](https://www.instagram.com/annacl472/)
+### Ferramentas
 
-[📧](mailto:dossantosanna64@gmail.com)
+* Git
+* GitHub
+* Visual Studio
 
----- 
+## 📚 Atualmente estudando
 
-“Obrigado por visitar meu cantinho digital! Vamos codar, criar e espalhar boas vibes juntos rumo ao sucesso. 🚀💜”
+* Python
+* SQL
+* APIs REST
+* Segurança da Informação
+* LGPD
+* UX/UI
+* Inteligência Artificial
+* Cloud Computing
+
+## 🚀 Projetos em destaque
+
+### 🌱 AgroConecta
+
+Projeto acadêmico desenvolvido em equipe na PUC Minas.
+
+**Tecnologias:** C#, .NET, JavaScript, HTML, CSS, SQL e Git/GitHub.
+
+> Em breve: link para o repositório e descrição detalhada da minha contribuição no projeto.
+
+### 🔐 Projetos de Cybersecurity
+
+Projetos e estudos desenvolvidos durante minha formação em segurança da informação.
+
+### 🤖 Projetos de IA e Dados
+
+Projetos pessoais desenvolvidos durante meus estudos de Python, análise de dados e inteligência artificial.
+
+## 📜 Certificações e cursos
+
+* Google Cybersecurity Certificate — em andamento
+* LGPD — ENAP — em andamento
+* Azure Fundamentals — Microsoft Learn — em estudo
+
+## 📫 Contato
+
+📧 [dossantosanna64@gmail.com](mailto:dossantosanna64@gmail.com)
+💼 LinkedIn: [seu LinkedIn]
+
+---
+
+⭐ Obrigada por visitar meu perfil!
