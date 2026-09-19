@@ -62,6 +62,16 @@ Projeto acadêmico desenvolvido em equipe na PUC Minas.
 
 **Minha contribuição:** desenvolvimento de interfaces e funcionalidades, incluindo a tela de Clima com integração de API para dados meteorológicos em tempo real, Atividades Agrícolas, Análise da Cultura e cadastro de produtos no Marketplace, além de participação na documentação e nos testes do projeto.
 
+### 🏢 SmartCondo
+
+Projeto acadêmico desenvolvido em equipe durante o curso de Análise e Desenvolvimento de Sistemas da PUC Minas.
+
+**Tecnologias:** HTML, CSS, JavaScript, JSON e Git/GitHub.
+
+🔗 [Ver projeto no GitHub](https://github.com/eu-anna/smartcondo-pucminas)
+
+**Minha contribuição:** desenvolvimento das funcionalidades de autenticação e login de funcionários, criação e organização da área de funcionários e dashboard, desenvolvimento e ajustes de interfaces com HTML, CSS e JavaScript, além da atualização dos dados e participação nos testes do sistema.
+
 ### 🔐 Projetos de Cybersecurity
 
 Projetos e estudos desenvolvidos durante minha formação em segurança da informação.
